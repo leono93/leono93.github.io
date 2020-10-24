@@ -13,20 +13,26 @@ body{
     perspective: 1000px;
 }
 
+.background img{
+    background-position: cover;
+}
+
 .container{
     width: 50%;
     display: flex;
     justify-content: center;
     align-items: center; 
+    position: absolute;
 }
 
 .card{
     transform-style: preserve-3d;
     min-height: 80vh;
-    width: 35rem;
+    width: 45rem;
     border-radius: 30px;
     padding: 0rem 5rem;
-    box-shadow: 0 20px 20px rgba(0,0,0,0.2), 0px 0px 50px rgba(0,0,0,0.2);
+    box-shadow: 0 20px 20px rgba(0,0,0,0.3), 0px 0px 50px rgba(0,0,0,0.3);
+    background-color: #f2f8fa;
 }
 
 .logo{
@@ -37,14 +43,14 @@ body{
 }
 
 .logo img{
-    width: 20rem;
+    width: 35rem;
     z-index: 2;
     transition: all 0.75s ease-out;
 }
 
 .circle{
-    width: 15rem;
-    height: 15rem;
+    width: 20rem;
+    height: 20rem;
     background: linear-gradient(
         to right,
         rgba(186,142,113,0.75),
@@ -56,12 +62,12 @@ body{
 }
 
 .info h1{
-    font-size: 3rem;
+    font-size: 4rem;
     transition: all 0.75s ease-out;
 }
 
 .info h3{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     padding: 2rem 0rem;
     color: #585858;
     font-weight: lighter;
@@ -76,6 +82,7 @@ body{
 
 .buttons button{
     padding: 0.5rem 3rem;
+    font-size: 1.1rem;
     background: none;
     border: none;
     box-shadow: 0px 5px 10px rgba(0,0,0,0.2);
@@ -98,6 +105,7 @@ button.active{
 .purchase button{
     width: 100%;
     padding: 1rem 0rem;
+    font-size: 1.5rem;
     background: #3c404a;
     border: none;
     color: white;
