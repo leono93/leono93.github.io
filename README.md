@@ -4,7 +4,8 @@ Awesome 3D card animation created fully in vanilla JavaScript. Image rotates whe
 
 # Screenshots
 
-![img1](https://user-images.githubusercontent.com/34029672/97087276-a73e0400-1631-11eb-8a14-6aae992d1099.png)
-![img2](https://user-images.githubusercontent.com/34029672/97087278-a86f3100-1631-11eb-9971-a207be69795b.png)
-![img3](https://user-images.githubusercontent.com/34029672/97087279-a9a05e00-1631-11eb-971d-c3a59940767d.png)
+![img1](https://user-images.githubusercontent.com/34029672/97088819-2a645780-163c-11eb-9aa7-267d59367ed0.png)
+![img2](https://user-images.githubusercontent.com/34029672/97088820-2b958480-163c-11eb-89b6-68c3e6725eac.png)
+![img3](https://user-images.githubusercontent.com/34029672/97088822-2cc6b180-163c-11eb-91e9-77bed7978299.png)
+![img4](https://user-images.githubusercontent.com/34029672/97088823-2df7de80-163c-11eb-9d5f-3bd3e363478b.png)
  
